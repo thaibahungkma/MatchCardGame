@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".Activity.Activity.TutorialGame"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/loadscreen">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Cách chơi :"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/costum_blue_btn">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-Tất cả các thẻ trên lưới bắt đầu úp xuống. Nhấp vào một thẻ để lật nó. Cố gắng tìm thẻ thứ hai phù hợp với thẻ đầu tiên."
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-Nếu thẻ thứ hai không khớp, cả hai thẻ trở lại vị trí úp. Nếu chúng khớp nhau, các thẻ sẽ bị xóa để hiển thị một phần của hình nền."
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-Cố gắng khớp tất cả các thẻ trên lưới trong thời gian nhanh nhất có thể. Bí quyết là sử dụng trí nhớ của bạn để ghi nhớ các thẻ ngay cả khi chúng được lật lại."
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-Trò chơi ghép thẻ này giúp rèn luyện trí nhớ ngắn hạn. Loại bộ nhớ này rất quan trọng đối với việc giải quyết vấn đề và các nhiệm vụ khác, nơi bạn cần ghi nhớ nhiều phần thông tin cùng một lúc."
+            android:textSize="20dp"
+            android:textColor="@color/black"/>
+
+    </LinearLayout>
+
+</LinearLayout>

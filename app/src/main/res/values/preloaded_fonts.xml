@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/allerta_stencil</item>
+        <item>@font/autour_one</item>
+        <item>@font/bangers</item>
+        <item>@font/black_ops_one</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/butcherman</item>
+        <item>@font/erica_one</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/trade_winds</item>
+    </array>
+</resources>
