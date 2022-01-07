@@ -16,7 +16,7 @@ Easy Gameplay Screen
 
 and.....
 
-You can dowload this source to explore
+You can download this source to explore
 
 Thanks for reading
 
