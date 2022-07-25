@@ -1,5 +1,5 @@
 # GameMatchCard
-one Game from CT2D-KMA ( Academy of Cryptography Techniques)
+one Game from Thai Ba Hung-KMA ( Academy of Cryptography Techniques)
 07/01/2022
 # GameMatchCard
 Menu Mainactivity 
